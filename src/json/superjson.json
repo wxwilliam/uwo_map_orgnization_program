@@ -1,0 +1,3337 @@
+[
+  {
+  "building name": "Alumi Hall",
+  "numOfFloor": 3,
+  "floor numbers": [
+    -1,
+    1,
+    2
+  ],
+  "floor list": [
+    {
+      "floor level": 1,
+      "floor map": "Map/AH_Map/AH_1.png",
+      "floor": [
+        {
+          "room": {
+            "roomNumber": "AH110A",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 531,
+            "y_coordinate": 129,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH110B",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 552,
+            "y_coordinate": 165,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH110C",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 562,
+            "y_coordinate": 191,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH110D",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 572,
+            "y_coordinate": 225,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH112",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 577,
+            "y_coordinate": 248,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH111",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 553,
+            "y_coordinate": 251,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AH110",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 532,
+            "y_coordinate": 178,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH108A",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 470,
+            "y_coordinate": 165,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH109",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 482,
+            "y_coordinate": 190,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH106",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 494,
+            "y_coordinate": 211,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH107",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 490,
+            "y_coordinate": 223,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH108",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 464,
+            "y_coordinate": 202,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AH106",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 492,
+            "y_coordinate": 272,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AH105",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 496,
+            "y_coordinate": 330,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH106A",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 468,
+            "y_coordinate": 286,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AH105A",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 472,
+            "y_coordinate": 357,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AH104",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 491,
+            "y_coordinate": 391,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AH104A",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 461,
+            "y_coordinate": 418,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AH102",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 468,
+            "y_coordinate": 450,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH103",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 486,
+            "y_coordinate": 461,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AH100",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 555,
+            "y_coordinate": 443,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH101",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 531,
+            "y_coordinate": 516,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH113",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 354,
+            "y_coordinate": 489,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH114",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 291,
+            "y_coordinate": 495,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AH115",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 299,
+            "y_coordinate": 429,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH115A",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 297,
+            "y_coordinate": 395,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AH115B",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 288,
+            "y_coordinate": 370,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH116B",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 307,
+            "y_coordinate": 368,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH116B",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 295,
+            "y_coordinate": 340,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH116",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 302,
+            "y_coordinate": 304,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH117B",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 303,
+            "y_coordinate": 274,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AH117A",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 298,
+            "y_coordinate": 250,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH117",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 302,
+            "y_coordinate": 224,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AH119",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 286,
+            "y_coordinate": 165,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "ELEV.A",
+            "floor": 1,
+            "building": "Alumi Hall",
+            "x_coordinate": 384,
+            "y_coordinate": 165,
+            "description": "Elevator",
+            "maximum_weight":1000
+          }}
+      ]
+    },
+    {
+      "floor level": 2,
+      "floor map": "Map/AH_Map/AH_2.png",
+      "floor": [
+        {
+          "room": {
+            "roomNumber": "AH207",
+            "floor": 2,
+            "building": "Alumi Hall",
+            "x_coordinate": 177,
+            "y_coordinate": 325,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH206",
+            "floor": 2,
+            "building": "Alumi Hall",
+            "x_coordinate": 233,
+            "y_coordinate": 320,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH201",
+            "floor": 2,
+            "building": "Alumi Hall",
+            "x_coordinate": 358,
+            "y_coordinate": 366,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH203",
+            "floor": 2,
+            "building": "Alumi Hall",
+            "x_coordinate": 283,
+            "y_coordinate": 472,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH202",
+            "floor": 2,
+            "building": "Alumi Hall",
+            "x_coordinate": 445,
+            "y_coordinate": 504,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH200",
+            "floor": 2,
+            "building": "Alumi Hall",
+            "x_coordinate": 598,
+            "y_coordinate": 326,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH204",
+            "floor": 2,
+            "building": "Alumi Hall",
+            "x_coordinate": 283,
+            "y_coordinate": 179,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "ELEV.A",
+            "floor": 2,
+            "building": "Alumi Hall",
+            "x_coordinate": 398,
+            "y_coordinate": 144,
+            "description": "Elevator",
+            "maximum_weight":1000
+          }},
+          {
+          "room": {
+            "roomNumber": "AH205",
+            "floor": 2,
+            "building": "Alumi Hall",
+            "x_coordinate": 439,
+            "y_coordinate": 151,
+            "description": "Room"
+          }}
+      ]
+    },
+    {
+      "floor level": -1,
+      "floor map": "Map/AH_Map/AH_G.png",
+      "floor": [
+        {
+          "room": {
+            "roomNumber": "AH11",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 473,
+            "y_coordinate": 478,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH11A",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 507,
+            "y_coordinate": 548,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH11B",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 470,
+            "y_coordinate": 538,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH11C",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 436,
+            "y_coordinate": 519,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH11D",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 400,
+            "y_coordinate": 506,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH11E",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 360,
+            "y_coordinate": 502,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH11F",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 472,
+            "y_coordinate": 418,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH11G",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 503,
+            "y_coordinate": 425,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH11H",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 533,
+            "y_coordinate": 432,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH11J",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 528,
+            "y_coordinate": 467,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH11K",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 520,
+            "y_coordinate": 498,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH12",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 547,
+            "y_coordinate": 477,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH13",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 554,
+            "y_coordinate": 447,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH14",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 558,
+            "y_coordinate": 428,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH15",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 389,
+            "y_coordinate": 316,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH15A",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 433,
+            "y_coordinate": 442,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH15X",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 443,
+            "y_coordinate": 414,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 531,
+            "y_coordinate": 349,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16A",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 540,
+            "y_coordinate": 388,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16B",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 510,
+            "y_coordinate": 382,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16C",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 495,
+            "y_coordinate": 372,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16D",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 484,
+            "y_coordinate": 337,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16E",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 482,
+            "y_coordinate": 303,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16F",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 527,
+            "y_coordinate": 274,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16G",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 525,
+            "y_coordinate": 307,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16H",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 558,
+            "y_coordinate": 270,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16J",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 585,
+            "y_coordinate": 289,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16K",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 583,
+            "y_coordinate": 326,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16L",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 581,
+            "y_coordinate": 364,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH16M",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 548,
+            "y_coordinate": 308,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH17",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 507,
+            "y_coordinate": 199,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH17A",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 532,
+            "y_coordinate": 123,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH17B",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 552,
+            "y_coordinate": 151,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH18",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 304,
+            "y_coordinate": 255,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH18A",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 291,
+            "y_coordinate": 230,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH18B",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 298,
+            "y_coordinate": 207,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH19",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 215,
+            "y_coordinate": 455,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH20",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 214,
+            "y_coordinate": 407,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH21",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 215,
+            "y_coordinate": 355,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH22",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 214,
+            "y_coordinate": 305,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH24",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 213,
+            "y_coordinate": 204,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AH25",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 366,
+            "y_coordinate": 155,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "ELEV.A",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 384,
+            "y_coordinate": 147,
+            "description": "Elevator",
+            "maximum_weight":1000
+          }},
+          {
+          "room": {
+            "roomNumber": "AH23",
+            "floor": -1,
+            "building": "Alumi Hall",
+            "x_coordinate": 215,
+            "y_coordinate": 257,
+            "description": "Room"
+          }}
+          ]
+    }
+  ]
+},
+  {
+  "building name":"Middlesex",
+  "numOfFloor":5,
+  "floor numbers":[-1,1,2,3,4],
+  "floor list":[
+    {
+      "floor level":-1,
+        "floor map":"Map/MC_Map/MC_G.png",
+        "floor":[
+          {"room":{
+          "roomNumber":"MC1",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":547,
+          "y_coordinate":331,
+          "description":"Electrical"
+        }},
+        {"room":{
+          "roomNumber":"MC3",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":554,
+          "y_coordinate":285,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC4",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":524,
+          "y_coordinate":281,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC4A",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":488,
+          "y_coordinate":482,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC4B",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":475,
+          "y_coordinate":314,
+          "description":"Washroom",
+          "type":"women"
+        }},
+        {"room":{
+          "roomNumber":"MC4C",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":451,
+          "y_coordinate":284,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC5B",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":999,
+          "y_coordinate":999,
+          "description":"Washroom",
+          "type":"man"
+        }},
+        {"room":{
+          "roomNumber":"MC6",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":395,
+          "y_coordinate":327,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC8",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":338,
+          "y_coordinate":366,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC10",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":284,
+          "y_coordinate":398,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC11",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":177,
+          "y_coordinate":433,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC12",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":153,
+          "y_coordinate":449,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC13",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":179,
+          "y_coordinate":475,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC14",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":90,
+          "y_coordinate":94,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC15A",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":77,
+          "y_coordinate":384,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC15B",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":129,
+          "y_coordinate":356,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC16A",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":185,
+          "y_coordinate":350,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC16B",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":224,
+          "y_coordinate":326,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC17",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":276,
+          "y_coordinate":299,
+          "description":"Classroom",
+          "maximum_seats":50
+        }},
+        {"room":{
+          "roomNumber":"MC3",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":999,
+          "y_coordinate":999,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC19",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":654,
+          "y_coordinate":201,
+          "description":"Eatery",
+          "rate":5
+        }},
+        {"room":{
+          "roomNumber":"MC20",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":630,
+          "y_coordinate":237,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC21",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":665,
+          "y_coordinate":253,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC22",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":687,
+          "y_coordinate":267,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC23",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":705,
+          "y_coordinate":280,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC24",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":724,
+          "y_coordinate":291,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC25",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":743,
+          "y_coordinate":302,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC26",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":764,
+          "y_coordinate":311,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC27A",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":782,
+          "y_coordinate":321,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC27B",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":801,
+          "y_coordinate":333,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC27C",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":818,
+          "y_coordinate":345,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC27D",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":837,
+          "y_coordinate":355,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC27E",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":857,
+          "y_coordinate":367,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC34",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":641,
+          "y_coordinate":339,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC33",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":679,
+          "y_coordinate":328,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC32",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":712,
+          "y_coordinate":342,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC31",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":736,
+          "y_coordinate":358,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC30",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":764,
+          "y_coordinate":374,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC29C",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":764,
+          "y_coordinate":374,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC29B",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":810,
+          "y_coordinate":401,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC29A",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":839,
+          "y_coordinate":406,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC29",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":823,
+          "y_coordinate":416,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC28A1",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":919,
+          "y_coordinate":404,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC28A2",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":960,
+          "y_coordinate":411,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC28A3",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":986,
+          "y_coordinate":446,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC28B",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":962,
+          "y_coordinate":480,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC28C",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":949,
+          "y_coordinate":502,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC28D",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":907,
+          "y_coordinate":499,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC28H",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":881,
+          "y_coordinate":467,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC28E",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":881,
+          "y_coordinate":450,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MCEL.C",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":859,
+          "y_coordinate":415,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MCEL.A",
+          "floor":-1,
+          "building": "Middlesex",
+          "x_coordinate":600,
+          "y_coordinate":291,
+          "description":"Room"
+        }}
+        ]
+      
+    },
+    
+    {
+        "floor level":1,
+        "floor map":"Map/MC_Map/MC_1.png",
+        "floor":[
+        {"room":{
+          "roomNumber":"MC100",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":444,
+          "y_coordinate":328,
+          "description":"Washroom",
+          "type":"man"
+        }},
+        {"room":{
+          "roomNumber":"MC102",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":406,
+          "y_coordinate":324,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC103",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":335,
+          "y_coordinate":367,
+          "description":"Work place"
+        }},
+        {"room":{
+          "roomNumber":"MC104",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":240,
+          "y_coordinate":416,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC105",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":86,
+          "y_coordinate":486,
+          "description":"Classroom",
+          "maximum_seats":233
+        }},
+        {"room":{
+          "roomNumber":"MC106",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":213,
+          "y_coordinate":331,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC107",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":277,
+          "y_coordinate":2998,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC108",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":335,
+          "y_coordinate":262,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC109",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":380,
+          "y_coordinate":380,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC110",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":547,
+          "y_coordinate":243,
+          "description":"Classroom",
+          "maximum_seats":100
+        }},
+        {"room":{
+          "roomNumber":"MC112",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":657,
+          "y_coordinate":251,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC113",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":682,
+          "y_coordinate":265,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC114",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":710,
+          "y_coordinate":282,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC116",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":738,
+          "y_coordinate":296,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC117",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":761,
+          "y_coordinate":311,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC118",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":790,
+          "y_coordinate":327,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC119",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":819,
+          "y_coordinate":345,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC120",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":838,
+          "y_coordinate":356,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC121",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":857,
+          "y_coordinate":365,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC122",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":825,
+          "y_coordinate":407,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC123",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":798,
+          "y_coordinate":390,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC124",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":755,
+          "y_coordinate":368,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC125",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":755,
+          "y_coordinate":368,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC126",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":737,
+          "y_coordinate":351,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC127",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":716,
+          "y_coordinate":346,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC128",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":699,
+          "y_coordinate":336,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC129",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":677,
+          "y_coordinate":325,
+          "description":"Lab"
+        }},
+        {"room":{
+          "roomNumber":"MC130",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":917,
+          "y_coordinate":404,
+          "description":"Office"
+        }},
+        {"room":{
+          "roomNumber":"MC131",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":959,
+          "y_coordinate":411,
+          "description":"Office"
+        }},
+        {"room":{
+          "roomNumber":"MC132",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":980,
+          "y_coordinate":432,
+          "description":"Office"
+        }},
+        {"room":{
+          "roomNumber":"MC133",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":983,
+          "y_coordinate":456,
+          "description":"Office"
+        }},
+        {"room":{
+          "roomNumber":"MC134",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":961,
+          "y_coordinate":501,
+          "description":"Office"
+        }},
+        {"room":{
+          "roomNumber":"MC135",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":934,
+          "y_coordinate":509,
+          "description":"Office"
+        }},
+        {"room":{
+          "roomNumber":"MC136",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":904,
+          "y_coordinate":500,
+          "description":"Office"
+        }},
+        {"room":{
+          "roomNumber":"MC137",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":882,
+          "y_coordinate":472,
+          "description":"Office"
+        }},
+        {"room":{
+          "roomNumber":"MC138",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":1,
+          "y_coordinate":1,
+          "description":"Office"
+        }},
+        {"room":{
+          "roomNumber":"MC139",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":1,
+          "y_coordinate":1,
+          "description":"Washroom",
+          "type":"womem"
+        }},
+        {"room":{
+          "roomNumber":"MCEL.A",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":602,
+          "y_coordinate":293,
+          "description":"Elevator",
+          "maximum_weight":1000
+        }},
+        {"room":{
+          "roomNumber":"MCEL.C",
+          "floor":1,
+          "building": "Middlesex",
+          "x_coordinate":858,
+          "y_coordinate":414,
+          "description":"Elevator",
+          "maximum_weight":1100
+        }}
+      ]
+    },
+    
+    {
+        "floor level":2,
+        "floor map":"Map/MC_Map/MC_2.png",
+        "floor":[
+        {"room":{
+          "roomNumber":"MC201",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":562,
+          "y_coordinate":352,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC202",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":528,
+          "y_coordinate":350,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC204",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":546,
+          "y_coordinate":260,
+          "description":"Classroom",
+          "maximum_seats":100
+        }},
+        {"room":{
+          "roomNumber":"MC205",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":437,
+          "y_coordinate":321,
+          "description":"Washroom",
+          "type":"women"
+        }},
+        {"room":{
+          "roomNumber":"MC209",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":394,
+          "y_coordinate":312,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC210",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":390,
+          "y_coordinate":348,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC213",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":349,
+          "y_coordinate":365,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC214",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":316,
+          "y_coordinate":355,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC215",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":287,
+          "y_coordinate":392,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC218",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":233,
+          "y_coordinate":401,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC220",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":184,
+          "y_coordinate":440,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC222",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":128,
+          "y_coordinate":468,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC230",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":70,
+          "y_coordinate":381,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC235",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":123,
+          "y_coordinate":359,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC239",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":188,
+          "y_coordinate":367,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC240",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":273,
+          "y_coordinate":301,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC240A",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":340,
+          "y_coordinate":240,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC245",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":355,
+          "y_coordinate":263,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC246",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":379,
+          "y_coordinate":252,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC247",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":370,
+          "y_coordinate":227,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC248",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":401,
+          "y_coordinate":209,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC249",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":422,
+          "y_coordinate":231,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC250",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":446,
+          "y_coordinate":209,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC250X",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":468,
+          "y_coordinate":252,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC252",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":435,
+          "y_coordinate":175,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC253",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":494,
+          "y_coordinate":252,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC254",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":501,
+          "y_coordinate":194,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC254A",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":491,
+          "y_coordinate":154,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC255",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":549,
+          "y_coordinate":195,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC255A",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":533,
+          "y_coordinate":154,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC255B",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":560,
+          "y_coordinate":149,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC255C",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":597,
+          "y_coordinate":154,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC255D",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":636,
+          "y_coordinate":163,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC255E",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":619,
+          "y_coordinate":206,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC258",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":606,
+          "y_coordinate":250,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC259",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":590,
+          "y_coordinate":199,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC260",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":656,
+          "y_coordinate":196,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC264",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":659,
+          "y_coordinate":252,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC265",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":683,
+          "y_coordinate":267,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC266",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":707,
+          "y_coordinate":282,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC267",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":733,
+          "y_coordinate":733,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC268",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":757,
+          "y_coordinate":308,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC269",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":779,
+          "y_coordinate":320,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC270",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":803,
+          "y_coordinate":334,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC271",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":852,
+          "y_coordinate":362,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC272",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":852,
+          "y_coordinate":362,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":933,
+          "y_coordinate":933,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275A",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":907,
+          "y_coordinate":907,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275B",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":928,
+          "y_coordinate":401,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275C",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":949,
+          "y_coordinate":403,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275D",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":966,
+          "y_coordinate":416,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275E",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":980,
+          "y_coordinate":429,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275F",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":985,
+          "y_coordinate":456,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275G",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":961,
+          "y_coordinate":501,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275H",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":935,
+          "y_coordinate":510,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275J",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":914,
+          "y_coordinate":505,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275K",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":894,
+          "y_coordinate":497,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275L",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":882,
+          "y_coordinate":478,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC275M",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":875,
+          "y_coordinate":458,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC278",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":881,
+          "y_coordinate":436,
+          "description":"Washroom",
+          "type":"universal"
+        }},
+        {"room":{
+          "roomNumber":"MC280",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":838,
+          "y_coordinate":408,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC281",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":802,
+          "y_coordinate":394,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC282",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":779,
+          "y_coordinate":383,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC283",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":752,
+          "y_coordinate":369,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC284",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":730,
+          "y_coordinate":354,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC285",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":707,
+          "y_coordinate":339,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC286",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":681,
+          "y_coordinate":324,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MCEL.A",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":602,
+          "y_coordinate":290,
+          "description":"Elevator",
+          "maximum_weight":1100
+        }},
+        {"room":{
+          "roomNumber":"MCEL.C",
+          "floor":2,
+          "building": "Middlesex",
+          "x_coordinate":859,
+          "y_coordinate":413,
+          "description":"Elevator",
+          "maximum_weight":1100
+        }}
+      ]
+    },
+    
+    {
+      "floor level":3,
+        "floor map":"Map/MC_Map/MC_3.png",
+        "floor":[
+          {"room":{
+          "roomNumber":"MC326A",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":93,
+          "y_coordinate":481,
+          "description":"Room"
+        }},
+      {"room":{
+          "roomNumber":"MC325",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":169,
+          "y_coordinate":460,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC326A",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":93,
+          "y_coordinate":481,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC327C",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":78,
+          "y_coordinate":415,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC327D",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":56,
+          "y_coordinate":395,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC327E",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":44,
+          "y_coordinate":372,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC327",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":104,
+          "y_coordinate":358,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC327B",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":110,
+          "y_coordinate":405,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC327A",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":130,
+          "y_coordinate":392,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC332",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":178,
+          "y_coordinate":357,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC334",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":215,
+          "y_coordinate":332,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC320",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":268,
+          "y_coordinate":404,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC336",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":270,
+          "y_coordinate":303,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC316",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":332,
+          "y_coordinate":371,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC338",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":308,
+          "y_coordinate":272,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC340",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":346,
+          "y_coordinate":256,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC312",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":376,
+          "y_coordinate":343,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC312A",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":409,
+          "y_coordinate":321,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC342",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":397,
+          "y_coordinate":228,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC344A",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":422,
+          "y_coordinate":172,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC344",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":437,
+          "y_coordinate":195,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC343",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":447,
+          "y_coordinate":217,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC345",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":463,
+          "y_coordinate":164,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC346",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":501,
+          "y_coordinate":157,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC347",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":540,
+          "y_coordinate":155,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC355E",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":573,
+          "y_coordinate":159,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC355D",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":607,
+          "y_coordinate":162,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC355C",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":636,
+          "y_coordinate":168,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC355B",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":669,
+          "y_coordinate":181,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC355A",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":617,
+          "y_coordinate":204,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC355",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":615,
+          "y_coordinate":246,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC351",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":543,
+          "y_coordinate":235,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC350",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":491,
+          "y_coordinate":203,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC352",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":485,
+          "y_coordinate":255,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC353",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":470,
+          "y_coordinate":280,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC300",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":545,
+          "y_coordinate":351,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC360",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":660,
+          "y_coordinate":253,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC361",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":687,
+          "y_coordinate":264,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC362",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":713,
+          "y_coordinate":285,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC363",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":737,
+          "y_coordinate":298,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC364",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":761,
+          "y_coordinate":312,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC365",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":784,
+          "y_coordinate":322,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC366",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":808,
+          "y_coordinate":340,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC368",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":837,
+          "y_coordinate":354,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC369",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":857,
+          "y_coordinate":365,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC370",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":935,
+          "y_coordinate":454,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC372",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":920,
+          "y_coordinate":404,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC374",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":959,
+          "y_coordinate":410,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC375",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":984,
+          "y_coordinate":444,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC378",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":947,
+          "y_coordinate":504,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC379",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":907,
+          "y_coordinate":498,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC381",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":881,
+          "y_coordinate":469,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC382",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":884,
+          "y_coordinate":437,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC383",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":925,
+          "y_coordinate":409,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC384",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":797,
+          "y_coordinate":392,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC385",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":768,
+          "y_coordinate":377,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC386",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":740,
+          "y_coordinate":360,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC387",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":715,
+          "y_coordinate":345,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC387X",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":704,
+          "y_coordinate":328,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC311",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":439,
+          "y_coordinate":318,
+          "description":"Washroom",
+          "type":"men"
+        }},
+        {"room":{
+          "roomNumber":"MC312X",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":421,
+          "y_coordinate":284,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC388",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":680,
+          "y_coordinate":330,
+          "description":"Washroom",
+          "type":"women"
+        }},
+        {"room":{
+          "roomNumber":"ELEV.A",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":602,
+          "y_coordinate":289,
+          "description":"Elevator",
+          "maximum_weight":1000
+        }},
+        {"room":{
+          "roomNumber":"ELEV.C",
+          "floor":3,
+          "building": "Middlesex",
+          "x_coordinate":862,
+          "y_coordinate":414,
+          "description":"Elevator",
+          "maximum_weight":1000
+        }}
+      ]
+    },
+    {
+      "floor level":4,
+        "floor map":"Map/MC_Map/MC_4.png",
+        "floor":[
+          {"room":{
+          "roomNumber":"MC400",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":675,
+          "y_coordinate":263,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC401A",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":682,
+          "y_coordinate":314,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC401B",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":697,
+          "y_coordinate":286,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC410",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":766,
+          "y_coordinate":346,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC410A",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":754,
+          "y_coordinate":374,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC410B",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":785,
+          "y_coordinate":322,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC413",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":855,
+          "y_coordinate":370,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC413",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":855,
+          "y_coordinate":370,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC414",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":883,
+          "y_coordinate":427,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC415",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":922,
+          "y_coordinate":417,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC416",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":952,
+          "y_coordinate":427,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC417",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":974,
+          "y_coordinate":449,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC418",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":945,
+          "y_coordinate":495,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC419",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":918,
+          "y_coordinate":487,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"MC414",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":882,
+          "y_coordinate":425,
+          "description":"Room"
+        }},
+        {"room":{
+          "roomNumber":"ELEV.C",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":862,
+          "y_coordinate":415,
+          "description":"Elevator",
+          "maximum_weight":1000
+        }},
+        {"room":{
+          "roomNumber":"MC420",
+          "floor":4,
+          "building": "Middlesex",
+          "x_coordinate":895,
+          "y_coordinate":466,
+          "description":"Room"
+        }}
+        ]
+    }
+  ]
+},
+  {
+  "building name": "Advanced Facility For Avain Research",
+  "numOfFloor": 2,
+  "floor numbers": [
+    1,
+    2
+  ],
+  "floor list": [
+    {
+      "floor level": 1,
+      "floor map": "Map/AFAR_Map/AFAR_1.png",
+      "floor": [
+        {
+          "room": {
+            "roomNumber": "AFAR150B",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 134,
+            "y_coordinate": 380,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR112",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 224,
+            "y_coordinate": 299,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR114",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 265,
+            "y_coordinate": 282,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR116",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 294,
+            "y_coordinate": 281,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR118",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 326,
+            "y_coordinate": 280,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR120",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 360,
+            "y_coordinate": 282,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR122",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 392,
+            "y_coordinate": 282,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR124",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 426,
+            "y_coordinate": 278,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR128",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 477,
+            "y_coordinate": 281,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR130",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 528,
+            "y_coordinate": 278,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AFAR132",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 560,
+            "y_coordinate": 281,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR134",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 590,
+            "y_coordinate": 279,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR136",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 622,
+            "y_coordinate": 276,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR136A",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 	658,
+            "y_coordinate": 280,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR140",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 658,
+            "y_coordinate": 359,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR140A",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 657,
+            "y_coordinate": 326,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AFAR140B",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 759,
+            "y_coordinate": 355,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR140C",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 653,
+            "y_coordinate": 394,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR140B-1",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 856,
+            "y_coordinate": 365,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR140B-3",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 845,
+            "y_coordinate": 265,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AFAR100",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 684,
+            "y_coordinate": 467,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR139",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 519,
+            "y_coordinate": 400,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AFAR133",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 579,
+            "y_coordinate": 361,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AFAR131",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 531,
+            "y_coordinate": 359,
+            "description": "Room"
+          }},
+         {"room": {
+            "roomNumber": "AFAR129",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 495,
+            "y_coordinate": 359,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR127",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 446,
+            "y_coordinate": 357,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR101",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 443,
+            "y_coordinate": 418,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR103",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 424,
+            "y_coordinate": 394,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR105",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 389,
+            "y_coordinate": 397,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AFAR105X",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 365,
+            "y_coordinate": 410,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR115",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 327,
+            "y_coordinate": 367,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AFAR123",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 393,
+            "y_coordinate": 366,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AFAR112A",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 221,
+            "y_coordinate": 354,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR110",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 224,
+            "y_coordinate": 390,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AFAR108",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 225,
+            "y_coordinate": 460,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR106",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 325,
+            "y_coordinate": 465,
+            "description": "Room"
+          }},
+         { "room": {
+            "roomNumber": "AFAR104",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 379,
+            "y_coordinate": 464,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR102",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 406,
+            "y_coordinate": 462,
+            "description": "Room"
+          }},
+          {"room": {
+            "roomNumber": "AFAR102A",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 438,
+            "y_coordinate": 462,
+            "description": "Washroom",
+            "type":"universal"
+          }},
+          {"room": {
+            "roomNumber": "ELEV.1",
+            "floor": 1,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 348,
+            "y_coordinate": 465,
+            "description": "Elevator",
+            "maximum_weight":100
+          }}
+      ]
+    },
+    {
+      "floor level": 2,
+      "floor map": "Map/AFAR_Map/AFAR_2.png",
+      "floor": [
+        {
+          "room": {
+            "roomNumber": "AFAR229",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 338,
+            "y_coordinate": 221,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR227",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 385,
+            "y_coordinate": 220,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR228",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 325,
+            "y_coordinate": 376,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR224",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 364,
+            "y_coordinate": 277,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR228A",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 328,
+            "y_coordinate": 307,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR224A",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 363,
+            "y_coordinate": 309,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR218",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 332,
+            "y_coordinate": 342,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR220",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 366,
+            "y_coordinate": 342,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR225",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 474,
+            "y_coordinate": 257,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR225A",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 425,
+            "y_coordinate": 336,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR211",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 485,
+            "y_coordinate": 337,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR210X",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 538,
+            "y_coordinate": 343,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR207",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 567,
+            "y_coordinate": 225,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR205",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 623,
+            "y_coordinate": 225,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR203",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 687,
+            "y_coordinate": 254,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR202",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 683,
+            "y_coordinate": 318,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR140B-2",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 886,
+            "y_coordinate": 303,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR200",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 771,
+            "y_coordinate": 403,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR201",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 416,
+            "y_coordinate": 405,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR216",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 422,
+            "y_coordinate": 401,
+            "description": "Room"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR214",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 456,
+            "y_coordinate": 406,
+            "description": "Washroom",
+            "type":"women"
+          }},
+          {
+          "room": {
+            "roomNumber": "AFAR212",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 478,
+            "y_coordinate": 406,
+            "description": "Washroom",
+            "type":"men"
+          }},
+          {
+          "room": {
+            "roomNumber": "ELEV.1",
+            "floor": 2,
+            "building": "Advanced Facility For Avain Research",
+            "x_coordinate": 384,
+            "y_coordinate": 408,
+            "description": "Elevator",
+            "maximum_weight": 1000
+          }}
+      ]
+    }
+  ]
+}
+]
